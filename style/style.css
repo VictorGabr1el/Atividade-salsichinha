@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body {
+    display: block;
+    background-color: #E8DAB2;
+    font-family: Raleway;
+}
+header {
+    height: auto;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 20%;
+    margin-top: 6%;
+}
+
+.primeiroh3 {
+    font-size: 26px;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+
+.primeiradiv1 {
+    margin-right: 15%;
+    padding-left: 5%;
+}
+
+.primeiroh1 {
+    font-size: 52px;
+    margin-top: 0px;
+}
+
+.imagemsalsichinha {
+    width: 370px;
+    height: 192px;
+    position: static;
+    right: 90%;
+}
+
+main {
+    font-weight: 200;
+    height: auto;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;  
+}
+
+article {
+    border-radius: 10px;
+    width: 100%;
+    max-width: 800px;
+    padding: 34px 24px 10px 24px;
+    text-align: justify;
+    border: #ffffff;
+    position: static;
+    background-color: #fff;
+    box-shadow: 0px 0px 13px 0px rgb(0 0 0 / 35%);
+}
+
+.imagemheotdog {
+    width: 800px;
+}
+
+.iframe1 {
+    width: 800px;
+    height: auto;
+    object-fit: contain;
+}
+
+footer {
+    text-align: right;
+    background-color: #090909;
+    padding: 16px;
+    height: 50px;
+    width: 100%;
+}
